@@ -22,6 +22,6 @@ Thanks to all of you who provide these resources.
 
 - [Computer science and technology program design](https://github.com/Mr-Phoebe/ProgramDesign)
 
-## Experitial resources
+## Experiential resources
 
 - [如何成为一个自认为优秀的程序员](https://github.com/Molunerfinn/fj-learning-resources/blob/master/如何成为一个自认为优秀的程序员.md)
