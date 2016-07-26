@@ -21,7 +21,22 @@ Thanks to all of you who provide these resources.
 ## Course learning resources
 
 - [Computer science and technology program design](https://github.com/Mr-Phoebe/ProgramDesign)
+- [PhotoShop course](http://pan.baidu.com/share/link?uk=3724631701&shareid=3533342091#path=%252F)
+- [AfterEffects course](http://pan.baidu.com/s/1ntxEk5b)
 
 ## Experiential resources
 
 - [如何成为一个自认为优秀的程序员](https://github.com/Molunerfinn/fj-learning-resources/blob/master/如何成为一个自认为优秀的程序员.md)
+
+## Software resources
+
+- [Office2016](http://pan.baidu.com/s/1dFpzP6p)
+- [PhotoShopCC](http://pan.baidu.com/s/1dFdU6Wh)
+- [PremiereCC](http://pan.baidu.com/s/1nuHZAeH)
+- [AfterEffectsCC](http://pan.baidu.com/s/1i50haQT)
+
+------
+
+This repo will be expansioned all the time. I hope that more and more people can join this repo to help more Byrs of Fujian.
+
+
