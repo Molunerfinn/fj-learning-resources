@@ -27,6 +27,7 @@ Thanks to all of you who provide these resources.
 ## Experiential resources
 
 - [如何成为一个自认为优秀的程序员](https://github.com/Molunerfinn/fj-learning-resources/blob/master/如何成为一个自认为优秀的程序员.md)
+- [BUPTNiceMentors](https://github.com/wukongbajie/BUPTNiceMentors)
 
 ## Software resources
 
