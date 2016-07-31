@@ -17,7 +17,7 @@ Thanks to all of you who provide these resources.
 - [英语四级听力材料](http://pan.baidu.com/s/1pLQtKU3)
 - [CET6-video](http://pan.baidu.com/s/1kVCoLAR)  
 > password: 8taw
-- [朱伟英语](http://pan.baidu.com/s/1nvaXnM5)  
+- [朱伟英语词汇](http://pan.baidu.com/s/1nvaXnM5)  
 > password: g9mn
 
 ## Course learning resources
