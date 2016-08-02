@@ -30,6 +30,7 @@ Thanks to all of you who provide these resources.
 
 - [如何成为一个自认为优秀的程序员](https://github.com/Molunerfinn/fj-learning-resources/blob/master/如何成为一个自认为优秀的程序员.md)
 - [BUPTNiceMentors](https://github.com/wukongbajie/BUPTNiceMentors)
+- [2016年毕业季-笔记本选购建议](https://github.com/Molunerfinn/fj-learning-resources/blob/master/notebook2016.md)
 
 ## Software resources
 
