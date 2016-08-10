@@ -23,6 +23,7 @@ Thanks to all of you who provide these resources.
 ## Course learning resources
 
 - [Computer science and technology program design](https://github.com/Mr-Phoebe/ProgramDesign)
+- [QT-learning](https://github.com/Mr-Phoebe/QT-learning)
 - [PhotoShop course](http://pan.baidu.com/share/link?uk=3724631701&shareid=3533342091#path=%252F)
 - [AfterEffects course](http://pan.baidu.com/s/1ntxEk5b)
 
