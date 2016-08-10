@@ -10,6 +10,9 @@ Thanks to all of you who provide these resources.
 - [廖雪峰python3](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 - [韩顺平java](http://pan.baidu.com/s/1minkrW0)  
 > password: 91ri
+- [苏璟C语言100例](https://github.com/Mr-Phoebe/ProgramDesign/tree/master/C%20Programing%20Example)  
+- [苏璟C++语言200例](https://github.com/Mr-Phoebe/ProgramDesign/tree/master/C%2B%2B%20Programing%20Example)  
+- [苏璟Qt开发及实例](https://github.com/Mr-Phoebe/QT-learning)  
 
 ## Language learning resources
 
@@ -19,11 +22,11 @@ Thanks to all of you who provide these resources.
 > password: 8taw
 - [朱伟英语词汇](http://pan.baidu.com/s/1nvaXnM5)  
 > password: g9mn
+- [写作素材](https://github.com/Mr-Phoebe/TOEFL)  
 
 ## Course learning resources
 
 - [Computer science and technology program design](https://github.com/Mr-Phoebe/ProgramDesign)
-- [QT-learning](https://github.com/Mr-Phoebe/QT-learning)
 - [PhotoShop course](http://pan.baidu.com/share/link?uk=3724631701&shareid=3533342091#path=%252F)
 - [AfterEffects course](http://pan.baidu.com/s/1ntxEk5b)
 
