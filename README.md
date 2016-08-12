@@ -10,9 +10,12 @@ Thanks to all of you who provide these resources.
 - [廖雪峰python3](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 - [韩顺平java](http://pan.baidu.com/s/1minkrW0)  
 > password: 91ri
-- [苏璟C语言100例](https://github.com/Mr-Phoebe/ProgramDesign/tree/master/C%20Programing%20Example)  
-- [苏璟C++语言200例](https://github.com/Mr-Phoebe/ProgramDesign/tree/master/C%2B%2B%20Programing%20Example)  
-- [苏璟Qt开发及实例](https://github.com/Mr-Phoebe/QT-learning)  
+- [苏璟C语言100例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/C%20Programing%20Example)  
+- [苏璟C++语言200例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/C%2B%2B%20Programing%20Example)  
+- [苏璟Qt开发及实例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/QT%20Example) 
+- [Android开发实例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/Android%20Example)
+- [Java开发300例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/Java%20Example)
+- [Python编程100例子](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/Python%20Example)
 
 ## Language learning resources
 
@@ -43,6 +46,9 @@ Thanks to all of you who provide these resources.
 - [PremiereCC](http://pan.baidu.com/s/1nuHZAeH)
 - [AfterEffectsCC](http://pan.baidu.com/s/1i50haQT)
 
+## Presentation resources
+- [PPT模板](http://yunpan.cn/c6zvs5rTXTnMn)   
+> password: f0e6  
 ------
 
 This repo will be expansioned all the time. I hope that more and more people can join this repo to help more Byrs of Fujian.
