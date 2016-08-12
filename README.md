@@ -47,8 +47,8 @@ Thanks to all of you who provide these resources.
 - [AfterEffectsCC](http://pan.baidu.com/s/1i50haQT)
 
 ## Presentation resources
-- [PPT模板](http://yunpan.cn/c6zvs5rTXTnMn)
-> password: f0e6
+- [PPT模板](http://yunpan.cn/c6zvs5rTXTnMn)   
+> password: f0e6  
 ------
 
 This repo will be expansioned all the time. I hope that more and more people can join this repo to help more Byrs of Fujian.
