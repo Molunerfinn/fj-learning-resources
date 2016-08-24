@@ -3,6 +3,8 @@ This is a learning-resources repository for Byrs of Fujian.
 
 Thanks to all of you who provide these resources.
 
+- [计算机相关技术资料整理大全](https://github.com/EZLippi/practical-programming-books)
+
 ## Programming learning resources
 
 - [小甲鱼python](http://pan.baidu.com/s/1mixtDrU)   
