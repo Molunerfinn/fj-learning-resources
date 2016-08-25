@@ -32,6 +32,7 @@ Thanks to all of you who provide these resources.
 - [Computer science and technology program design](https://github.com/Mr-Phoebe/ProgramDesign)
 - [PhotoShop course](http://pan.baidu.com/share/link?uk=3724631701&shareid=3533342091#path=%252F)
 - [AfterEffects course](http://pan.baidu.com/s/1ntxEk5b)
+- [计算机相关技术资料整理大全](https://github.com/EZLippi/practical-programming-books)
 
 ## Experiential resources
 
