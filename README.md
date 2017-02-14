@@ -13,6 +13,8 @@ Thanks to all of you who provide these resources.
 - [苏璟C语言100例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/C%20Programing%20Example)  
 - [苏璟C++语言200例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/C%2B%2B%20Programing%20Example)  
 - [苏璟Qt开发及实例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/QT%20Example) 
+- [C#开发实例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/C%23%20Example) 
+- [Bootstrap3.3样例示范](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/Bootstrap) 
 - [Android开发实例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/Android%20Example)
 - [Java开发300例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/Java%20Example)
 - [Python编程100例子](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/Python%20Example)
@@ -53,5 +55,4 @@ Thanks to all of you who provide these resources.
 ------
 
 This repo will be expansioned all the time. I hope that more and more people can join this repo to help more Byrs of Fujian.
-
 
