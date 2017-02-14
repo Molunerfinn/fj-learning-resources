@@ -3,7 +3,6 @@ This is a learning-resources repository for Byrs of Fujian.
 
 Thanks to all of you who provide these resources.
 
-
 ## Programming learning resources
 
 - [小甲鱼python](http://pan.baidu.com/s/1mixtDrU)   
@@ -14,6 +13,8 @@ Thanks to all of you who provide these resources.
 - [苏璟C语言100例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/C%20Programing%20Example)  
 - [苏璟C++语言200例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/C%2B%2B%20Programing%20Example)  
 - [苏璟Qt开发及实例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/QT%20Example) 
+- [C#开发实例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/C%23%20Example) 
+- [Bootstrap3.3样例示范](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/Bootstrap) 
 - [Android开发实例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/Android%20Example)
 - [Java开发300例](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/Java%20Example)
 - [Python编程100例子](https://github.com/Mr-Phoebe/ProgramLanguage/tree/master/Python%20Example)
@@ -32,7 +33,7 @@ Thanks to all of you who provide these resources.
 
 - [Computer science and technology program design](https://github.com/Mr-Phoebe/ProgramDesign)
 - [PhotoShop course](http://pan.baidu.com/share/link?uk=3724631701&shareid=3533342091#path=%252F)
-- [AfterEffects course](http://pan.baidu.com/s/1ntxEk5b)  
+- [AfterEffects course](http://pan.baidu.com/s/1ntxEk5b)
 - [计算机相关技术资料整理大全](https://github.com/EZLippi/practical-programming-books)
 
 ## Experiential resources
@@ -54,5 +55,4 @@ Thanks to all of you who provide these resources.
 ------
 
 This repo will be expansioned all the time. I hope that more and more people can join this repo to help more Byrs of Fujian.
-
 
